@@ -323,5 +323,14 @@ With **IAM**, you can create **least-privilege policies**, which means **giving 
 
 ### 3. 
 
+## Comparison table between AWS IAM and Microsoft Entra ID (formerly Azure AD) 
+
+Two powerful but different **Identity (Authentication) and Access Management (Authorization)** platforms used in **AWS** and **Azure** ecosystems.
+
+![image](https://github.com/user-attachments/assets/a4e70048-41fa-4b5d-b326-30ee729abda1)
+
+![image](https://github.com/user-attachments/assets/55cb4984-a44b-422a-b588-9a8c3b843aa9)
+
+
 ## Google Cloud Services
 
