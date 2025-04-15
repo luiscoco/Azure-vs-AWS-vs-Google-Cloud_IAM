@@ -98,6 +98,8 @@ Dashboard with a summary of your tenant:
 
 - Alerts, announcements, and identity secure score
 
+![image](https://github.com/user-attachments/assets/73315a69-2011-416c-9e8f-240a22c48d8c)
+
 **Diagnose and solve problems**
 
 Guided troubleshooting for common issues:
@@ -109,6 +111,8 @@ Guided troubleshooting for common issues:
 - Conditional Access misconfigurations
 
 - License or provisioning issues
+
+![image](https://github.com/user-attachments/assets/a606a6fd-4ab9-485a-a5d0-0a011304b0e0)
 
 #### 3.2.
 
