@@ -258,6 +258,8 @@ You're in the Roles and administrators section of Microsoft Entra ID, where you 
 
 ![image](https://github.com/user-attachments/assets/efe75bcf-777c-432a-9a8d-df1210bdee30)
 
+![image](https://github.com/user-attachments/assets/5fae8606-8abc-4199-9c2a-148434a980ad)
+
 #### 3.6.
 
 
