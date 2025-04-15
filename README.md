@@ -236,9 +236,17 @@ New support request
 
 Submit a ticket to Microsoft Support if you're facing group-related issues that need further help.
 
+#### 3.4. External Identities
 
+The External Identities section in Microsoft Entra ID allows you to securely manage external users—like partners, suppliers, customers, and guests—who access your resources
 
-#### 3.4.
+![image](https://github.com/user-attachments/assets/b9883ea8-e331-4fac-8167-adb487bb4b3a)
+
+![image](https://github.com/user-attachments/assets/b415971c-5d84-4c31-900c-d5d16ce58da2)
+
+![image](https://github.com/user-attachments/assets/1c4e36b7-4f2b-4806-8a49-b9e1b25a6b0e)
+
+![image](https://github.com/user-attachments/assets/24c592aa-84b2-4d52-b4d0-f93a4fd2933f)
 
 
 #### 3.5.
