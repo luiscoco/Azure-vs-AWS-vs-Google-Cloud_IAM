@@ -114,7 +114,11 @@ Guided troubleshooting for common issues:
 
 ![image](https://github.com/user-attachments/assets/a606a6fd-4ab9-485a-a5d0-0a011304b0e0)
 
-#### 3.2.
+#### 3.2. Manage Users
+
+![image](https://github.com/user-attachments/assets/a38c1256-94d2-4523-a70f-3476792bb050)
+
+![image](https://github.com/user-attachments/assets/af19aee4-262d-49db-b927-a88fb0ea4cc6)
 
 
 #### 3.3.
