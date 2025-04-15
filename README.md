@@ -120,6 +120,9 @@ Guided troubleshooting for common issues:
 
 ![image](https://github.com/user-attachments/assets/af19aee4-262d-49db-b927-a88fb0ea4cc6)
 
+![image](https://github.com/user-attachments/assets/0475c555-48df-4de2-9d1b-ae5c82a2d301)
+
+![image](https://github.com/user-attachments/assets/6e0d2d5f-60cf-4989-a24c-40cb51286d40)
 
 #### 3.3.
 
