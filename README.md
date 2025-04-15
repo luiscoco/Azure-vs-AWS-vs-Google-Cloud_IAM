@@ -305,6 +305,15 @@ https://entra.microsoft.com/
 
 ## AWS
 
+### 1. 
+
+![image](https://github.com/user-attachments/assets/312a8693-5499-47d4-b6a4-331910026e2f)
+
+
+
+### 2. 
+
+
 
 
 
