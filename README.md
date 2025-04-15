@@ -124,8 +124,9 @@ Guided troubleshooting for common issues:
 
 ![image](https://github.com/user-attachments/assets/6e0d2d5f-60cf-4989-a24c-40cb51286d40)
 
-#### 3.3.
+#### 3.3. Groups
 
+![image](https://github.com/user-attachments/assets/e3cc650d-1ef6-4bbc-b284-7ce55cdd127c)
 
 #### 3.4.
 
