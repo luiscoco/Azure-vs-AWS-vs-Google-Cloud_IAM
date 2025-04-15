@@ -1,6 +1,6 @@
 # Azure vs AWS vs Google Cloud: Identity and Access Management (IAM)
 
-## Azure
+## Azure Microsoft Entra ID (Azure Active Directory)
 
 ### 1. What is Microsoft Entra ID?
 
@@ -305,14 +305,19 @@ https://entra.microsoft.com/
 
 ## AWS
 
-### 1. 
+### 1. What is AWS IAM?
+
+AWS IAM stands for Identity and Access Management.
+
+It’s a secure, centralized system in Amazon Web Services that lets you control who can access what in your AWS environment.
+
+It’s one of the first things you set up when you create an AWS account because it defines how users and systems interact with AWS services.
 
 ![image](https://github.com/user-attachments/assets/312a8693-5499-47d4-b6a4-331910026e2f)
 
+### 2. Key Concepts of AWS IAM
 
-
-### 2. 
-
+![image](https://github.com/user-attachments/assets/21c6cf5b-592d-46cd-bf70-935eeb6a9aae)
 
 
 
