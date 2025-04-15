@@ -313,15 +313,15 @@ It’s a secure, centralized system in Amazon Web Services that lets you control
 
 It’s one of the first things you set up when you create an AWS account because it defines how users and systems interact with AWS services.
 
+With **IAM**, you can create **least-privilege policies**, which means **giving users or systems only the access they need—nothing more**.
+
 ![image](https://github.com/user-attachments/assets/312a8693-5499-47d4-b6a4-331910026e2f)
 
 ### 2. Key Concepts of AWS IAM
 
 ![image](https://github.com/user-attachments/assets/21c6cf5b-592d-46cd-bf70-935eeb6a9aae)
 
-
-
-
+### 3. 
 
 ## Google Cloud Services
 
