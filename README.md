@@ -271,6 +271,38 @@ You're in the Roles and administrators section of Microsoft Entra ID, where you 
 
 #### 3.9.
 
+
+### 4. Microsoft Entra Admin Center
+
+https://entra.microsoft.com/
+
+![image](https://github.com/user-attachments/assets/0a15d643-cb83-43fd-9617-75402055ecf3)
+
+#### 4.1.
+
+
+
+#### 4.2.
+
+
+
+#### 4.3.
+
+
+
+
+#### 4.4.
+
+
+
+
+#### 4.5.
+
+
+
+
+
+
 ## AWS
 
 
