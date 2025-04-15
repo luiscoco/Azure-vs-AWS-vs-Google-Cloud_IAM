@@ -128,6 +128,116 @@ Guided troubleshooting for common issues:
 
 ![image](https://github.com/user-attachments/assets/e3cc650d-1ef6-4bbc-b284-7ce55cdd127c)
 
+**Overview**
+
+A dashboard summarizing the current state of your groups:
+
+- Total number of groups
+
+- Types of groups: M365, security, dynamic, cloud, on-premises
+
+- Alerts and feature suggestions (e.g., access reviews)
+
+**All groups**
+
+Shows all groups in your directory.
+
+Types include:
+
+- Security groups: Control access to apps and resources.
+
+- Microsoft 365 groups: Used for collaboration (Teams, Outlook, SharePoint).
+
+- Dynamic groups: Automatically add/remove members based on rules.
+
+You can create, edit, delete, or manage memberships here.
+
+**Deleted groups**
+
+View and restore soft-deleted groups (kept for 30 days by default).
+
+Useful for accidental deletion recovery.
+
+**Diagnose and solve problems**
+
+Run troubleshooting tools for group-related issues like:
+
+Users not showing up in groups
+
+Access problems with apps/resources
+
+Sync problems (hybrid environments)
+
+**Settings Section**
+
+**General**
+
+Set default group settings, including:
+
+Group creation permissions
+
+Who can manage groups
+
+Visibility (public/private for M365 groups)
+
+**Expiration**
+
+Configure lifetime policies for groups:
+
+Automatically expire and delete unused groups
+
+Send renewal notifications
+
+**Naming policy**
+
+Define naming conventions and blocked words to control how groups are named.
+
+Enforce prefixes/suffixes
+
+Prevent inappropriate or confusing names
+
+**Activity Section**
+
+**Privileged Identity Management (PIM)**
+
+Use just-in-time access and approval workflows for sensitive group roles.
+
+Apply time-limited assignments for roles like Group Owner or Administrator.
+
+**Access reviews**
+
+Set up periodic checks to verify who should still be in a group.
+
+Helps maintain security and compliance by removing unnecessary access.
+
+**Audit logs**
+
+See a history of actions related to groups:
+
+Creation/deletion
+
+Membership changes
+
+Role assignments
+
+**Bulk operation results**
+
+Monitor the status of bulk group operations, such as:
+
+Importing members via CSV
+
+Bulk deletion
+
+Group creation scripts
+
+**Troubleshooting + Support**
+
+New support request
+
+Submit a ticket to Microsoft Support if you're facing group-related issues that need further help.
+
+
+
 #### 3.4.
 
 
