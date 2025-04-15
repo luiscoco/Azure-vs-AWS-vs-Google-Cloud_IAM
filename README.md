@@ -4,7 +4,9 @@
 
 ### 1. What is Microsoft Entra ID?
 
-Microsoft Entra ID is Microsoft’s cloud-based identity and access management (IAM) service. It helps employees, partners, and customers securely access resources such as:
+![image](https://github.com/user-attachments/assets/5b1bfa29-85c9-4da2-989e-7c25f7cfa6e8)
+
+**Microsoft Entra ID** is Microsoft’s cloud-based **Identity(Authentication) and Access Management(Authorization)** IAM service. It helps employees, partners, and customers securely access resources such as:
 
 - Microsoft 365
 
