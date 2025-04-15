@@ -248,20 +248,29 @@ The External Identities section in Microsoft Entra ID allows you to securely man
 
 ![image](https://github.com/user-attachments/assets/24c592aa-84b2-4d52-b4d0-f93a4fd2933f)
 
+#### 3.5. Roles and administrators
 
-#### 3.5.
+You're in the Roles and administrators section of Microsoft Entra ID, where you manage role-based access control (RBAC) for identity and directory management.
+
+![image](https://github.com/user-attachments/assets/211c8a15-bbe0-49ad-a3bf-34488060a849)
+
+![image](https://github.com/user-attachments/assets/573c20ea-b367-4e03-b150-88bcc755f95e)
+
+![image](https://github.com/user-attachments/assets/efe75bcf-777c-432a-9a8d-df1210bdee30)
+
+#### 3.6.
 
 
+#### 3.7.
 
 
+#### 3.8.
 
 
-
-
-
-
+#### 3.9.
 
 ## AWS
+
 
 
 
