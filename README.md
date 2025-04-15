@@ -78,6 +78,57 @@ Track sign-ins, changes, and access history.
 
 Integrate with Microsoft Sentinel for advanced SIEM (Security Info and Event Management).
 
+### 3.Navigation Panel: Microsoft Entra ID Menu
+
+#### 3.1. Overview and Diagnose/Solve problems
+
+![image](https://github.com/user-attachments/assets/68679ce1-f087-4f1a-9571-58325e32aeaa)
+
+**Overview**
+
+Dashboard with a summary of your tenant:
+
+- Tenant name, ID, primary domain
+
+- Number of users, groups, apps, and devices
+
+- Current license (e.g., Microsoft Entra ID Free)
+
+- Alerts, announcements, and identity secure score
+
+**Diagnose and solve problems**
+
+Guided troubleshooting for common issues:
+
+- Sign-in issues
+
+- Application access problems
+
+- Conditional Access misconfigurations
+
+- License or provisioning issues
+
+#### 3.2.
+
+
+#### 3.3.
+
+
+#### 3.4.
+
+
+#### 3.5.
+
+
+
+
+
+
+
+
+
+
+
 ## AWS
 
 
